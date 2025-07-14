@@ -1,0 +1,3 @@
+data/mnist/*.csv 
+data/mnist/*.parquet 
+build/ 
